@@ -1,0 +1,1 @@
+# Jeffries-Matusita-distance-criterion-constrained-K-means-clustering-JCKC-algorithm
